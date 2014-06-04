@@ -6,8 +6,8 @@ class Ecg_Sniffs_Security_LanguageConstructSniff implements PHP_CodeSniffer_Snif
     {
         return array(
             T_EXIT,
-            T_ECHO,
-            T_PRINT,
+//            T_ECHO,
+//            T_PRINT,
             T_BACKTICK
         );
     }
