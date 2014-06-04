@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Tests_Security_SuperglobalUnitTest extends AbstractSniffUnitTest
+class TeamCS_Tests_Security_SuperglobalUnitTest extends AbstractSniffUnitTest
 {
     public function getErrorList()
     {

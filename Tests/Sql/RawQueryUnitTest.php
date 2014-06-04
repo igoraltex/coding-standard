@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Tests_Sql_RawQueryUnitTest extends AbstractSniffUnitTest
+class TeamCS_Tests_Sql_RawQueryUnitTest extends AbstractSniffUnitTest
 {
     public function getErrorList()
     {

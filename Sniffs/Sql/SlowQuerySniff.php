@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Sql_SlowQuerySniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Sql_SlowQuerySniff implements PHP_CodeSniffer_Sniff
 {
     public $adapterMethods = array(
         'group',

@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Sql_RawQuerySniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Sql_RawQuerySniff implements PHP_CodeSniffer_Sniff
 {
     public $statements = array(
         'SELECT',

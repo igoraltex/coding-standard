@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_PHP_VarSniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_PHP_VarSniff implements PHP_CodeSniffer_Sniff
 {
     public function register()
     {

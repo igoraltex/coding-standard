@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Security_ForbiddenFunctionSniff extends Generic_Sniffs_PHP_ForbiddenFunctionsSniff
+class TeamCS_Sniffs_Security_ForbiddenFunctionSniff extends Generic_Sniffs_PHP_ForbiddenFunctionsSniff
 {
     protected $patternMatch = true;
 

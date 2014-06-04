@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Tests_Classes_ObjectInstantiationUnitTest extends AbstractSniffUnitTest
+class TeamCS_Tests_Classes_ObjectInstantiationUnitTest extends AbstractSniffUnitTest
 {
     public function getErrorList()
     {

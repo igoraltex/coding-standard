@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Security_SuperglobalSniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Security_SuperglobalSniff implements PHP_CodeSniffer_Sniff
 {
     public $superglobals = array(
         '$GLOBALS',

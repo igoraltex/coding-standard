@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Classes_ObjectInstantiationSniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Classes_ObjectInstantiationSniff implements PHP_CodeSniffer_Sniff
 {
     protected $disallowedClassPrefixes = array(
         'Mage_',

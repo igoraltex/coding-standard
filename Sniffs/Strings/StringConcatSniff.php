@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Strings_StringConcatSniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Strings_StringConcatSniff implements PHP_CodeSniffer_Sniff
 {
     public function register()
     {

@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Tests_Security_ForbiddenFunctionUnitTest extends AbstractSniffUnitTest
+class TeamCS_Tests_Security_ForbiddenFunctionUnitTest extends AbstractSniffUnitTest
 {
     public function getErrorList()
     {

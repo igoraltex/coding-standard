@@ -1,6 +1,6 @@
 <?php
 
-class Ecg_Sniffs_Security_LanguageConstructSniff implements PHP_CodeSniffer_Sniff
+class TeamCS_Sniffs_Security_LanguageConstructSniff implements PHP_CodeSniffer_Sniff
 {
     public function register()
     {
